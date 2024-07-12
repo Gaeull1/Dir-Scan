@@ -1,3 +1,4 @@
+#目录扫描
 should installed requests ...modules
 
 use python main.py 
