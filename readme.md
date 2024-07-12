@@ -1,1 +1,3 @@
-可以根据URL地址扫描目录及铭感文件
+should installed requests ...modules
+use python main.py 
+and input website which you want to direction scan
